@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "作業日報",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "作業日報",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "templates/default-of-journal.html#頃-本日の業務を開始致します",
+    "href": "templates/default-of-journal.html#頃-本日の業務を開始致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "09:00:00 頃 本日の業務を開始致します。",
+    "text": "09:00:00 頃 本日の業務を開始致します。"
+  },
+  {
+    "objectID": "templates/default-of-journal.html#頃-昼休みを開始致します",
+    "href": "templates/default-of-journal.html#頃-昼休みを開始致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "12:00:00 頃 昼休みを開始致します。",
+    "text": "12:00:00 頃 昼休みを開始致します。"
+  },
+  {
+    "objectID": "templates/default-of-journal.html#頃-昼休みを終了致します",
+    "href": "templates/default-of-journal.html#頃-昼休みを終了致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "13:00:00 頃 昼休みを終了致します。",
+    "text": "13:00:00 頃 昼休みを終了致します。"
+  },
+  {
+    "objectID": "templates/default-of-journal.html#頃-本日の作業振り返りを開始します",
+    "href": "templates/default-of-journal.html#頃-本日の作業振り返りを開始します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "18:30:00 頃 本日の作業振り返りを開始します。",
+    "text": "18:30:00 頃 本日の作業振り返りを開始します。"
+  },
+  {
+    "objectID": "templates/default-of-journal.html#頃-本日の業務を終了致します",
+    "href": "templates/default-of-journal.html#頃-本日の業務を終了致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "19:00:00 頃 本日の業務を終了致します。",
+    "text": "19:00:00 頃 本日の業務を終了致します。"
+  },
+  {
+    "objectID": "templates/default-of-journal.html#作業上の注意点",
+    "href": "templates/default-of-journal.html#作業上の注意点",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "作業上の注意点",
+    "text": "作業上の注意点\n\n[v] 簡単な作業から片付ける。\n[v] 改善の余地を残しながら開発する。\n[v] 最初から最高を目指さない。\n[v] 細かな点を気にしすぎないこと\n[v] まず全体の流れを通すことを優先すること\n[v] 動くようになってから効率の改善を行う。\n[v] 最小のSQLを実現しようとしてはならない (Premature Optimization)\n[v] HTMLで出来ないことはやらない。\n[v] 画面を表示する為に必要なテーブルとシステムが稼働する為に必要なテーブルは、必ず分ける。"
+  },
+  {
+    "objectID": "templates/default-of-journal.html#テクニック上の注意点",
+    "href": "templates/default-of-journal.html#テクニック上の注意点",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "テクニック上の注意点",
+    "text": "テクニック上の注意点\n\n[v] ひたすらSQLを書いて、ひたすらAPIを書いて、ひたすらReact.jsを書く。\n[v] 考えない！ 手を動かす。\n[v] 動作の違うAPIはメソッド名を変える。できるかぎり API に条件判定を入れない！"
+  },
+  {
+    "objectID": "templates/default-of-journal.html#メンタル上の注意点",
+    "href": "templates/default-of-journal.html#メンタル上の注意点",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "メンタル上の注意点",
+    "text": "メンタル上の注意点\n\n[v] 集中力を落とさない様に注意する。\n[v] 集中力を上げる事を意識する。\n[v] 疲れる前に休む。\n[v] 今後の作業は繰り返し作業が多い為、作業の効率向上を考える。\n[v] 集中し過ぎによるコンディション悪化に注意する。"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#頃-本日の業務を開始致します",
+    "href": "templates/default-of-thoughts.html#頃-本日の業務を開始致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "09:00:00 頃 本日の業務を開始致します。",
+    "text": "09:00:00 頃 本日の業務を開始致します。"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#頃-昼休みを開始致します",
+    "href": "templates/default-of-thoughts.html#頃-昼休みを開始致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "12:00:00 頃 昼休みを開始致します。",
+    "text": "12:00:00 頃 昼休みを開始致します。"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#頃-昼休みを終了致します",
+    "href": "templates/default-of-thoughts.html#頃-昼休みを終了致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "13:00:00 頃 昼休みを終了致します。",
+    "text": "13:00:00 頃 昼休みを終了致します。"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#頃-本日の作業振り返りを開始します",
+    "href": "templates/default-of-thoughts.html#頃-本日の作業振り返りを開始します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "18:30:00 頃 本日の作業振り返りを開始します。",
+    "text": "18:30:00 頃 本日の作業振り返りを開始します。"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#頃-本日の業務を終了致します",
+    "href": "templates/default-of-thoughts.html#頃-本日の業務を終了致します",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "19:00:00 頃 本日の業務を終了致します。",
+    "text": "19:00:00 頃 本日の業務を終了致します。"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#作業上の注意点",
+    "href": "templates/default-of-thoughts.html#作業上の注意点",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "作業上の注意点",
+    "text": "作業上の注意点\n\n[v] 簡単な作業から片付ける。\n[v] 改善の余地を残しながら開発する。\n[v] 最初から最高を目指さない。\n[v] 細かな点を気にしすぎないこと\n[v] まず全体の流れを通すことを優先すること\n[v] 動くようになってから効率の改善を行う。\n[v] 最小のSQLを実現しようとしてはならない (Premature Optimization)\n[v] HTMLで出来ないことはやらない。\n[v] 画面を表示する為に必要なテーブルとシステムが稼働する為に必要なテーブルは、必ず分ける。"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#テクニック上の注意点",
+    "href": "templates/default-of-thoughts.html#テクニック上の注意点",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "テクニック上の注意点",
+    "text": "テクニック上の注意点\n\n[v] ひたすらSQLを書いて、ひたすらAPIを書いて、ひたすらReact.jsを書く。\n[v] 考えない！ 手を動かす。\n[v] 動作の違うAPIはメソッド名を変える。できるかぎり API に条件判定を入れない！"
+  },
+  {
+    "objectID": "templates/default-of-thoughts.html#メンタル上の注意点",
+    "href": "templates/default-of-thoughts.html#メンタル上の注意点",
+    "title": "<% tp.date.now(“YYYY年MM月DD日”) %>",
+    "section": "メンタル上の注意点",
+    "text": "メンタル上の注意点\n\n[v] 集中力を落とさない様に注意する。\n[v] 集中力を上げる事を意識する。\n[v] 疲れる前に休む。\n[v] 今後の作業は繰り返し作業が多い為、作業の効率向上を考える。\n[v] 集中し過ぎによるコンディション悪化に注意する。"
+  }
+]
